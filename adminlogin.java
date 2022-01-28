@@ -1,6 +1,6 @@
 import java.util.*;
 import java.awt.event.*;
-import javax.swing.*;mkjkk
+import javax.swing.*;
 import java.awt.*;
 import java.util.*;
 public class adminlogin extends JFrame implements ActionListener  
